@@ -15,9 +15,8 @@
 
 ### To get a local copy run the following steps:
 
-- [Copy this link](https://github.com/Vagyasri/Tic-Tac-Toe.git)
 - Open your terminal or command line
-- Run "git clone [Paste this link](https://github.com/Vagyasri/Tic-Tac-Toe.git)"
+- Run `git clone https://github.com/Vagyasri/Tic-Tac-Toe.git)`
 
 ## How to set up tests
 
